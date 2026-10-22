@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-text-splitters
+langchain-openai
+langchain-community
+langchain-chroma
+python-dotenv
+ipykernel
+ragas
+pypdf
+fpdf2
+pandas
+numpy
+langchain-google-vertexai 
+langchain-community
